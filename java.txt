@@ -1,0 +1,136 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: asdasd
+Father's Name: sdaf
+RollNumber: dsf
+Email ID: sdf
+Contact Number: fds
+Wants to take: CSE
+Wants to be a Day Scholar 
+Had chosen: CIVIL(2, 50, 000)
+Had chosen: bus(40, 000)
+                    Total amount to be paid is 2.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: asdasd
+Father's Name: sdaf
+RollNumber: dsf
+Email ID: sdf
+Contact Number: fds
+Wants to take: CSE
+Wants to be a Day Scholar 
+Had chosen: CIVIL(2, 50, 000)
+Had chosen: bus(40, 000)
+                    Total amount to be paid is 2.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Father's Name: 
+RollNumber: 
+Email ID: 
+Contact Number: 
+Wants to take: CSE
+Wants to Join in School of Liberal Arts and Sciences
+Had chosen: MECH(2, 50, 000)
+Had chosen: 8 SHARE(1, 10, 000)
+                    Total amount to be paid is 3.7 Lakhs   
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: null
+Breakfast Option: null
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Deluxe ($120)
+Breakfast Option: without breakfast
+                    Total amount to be paid is 4 Lakhs   
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Super Deluxe ($150)
+Breakfast Option: null
+                    Total bill is $150   
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Deluxe ($120)
+Breakfast Option: with breakfast
+                    Total bill is 140   
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Deluxe ($120)
+Breakfast Option: with breakfast (+$20)
+                    Total bill is 140   
+------------------------------------------- Hotel Receipt ---------------------------------------------------------------------------
+Guest Name: test 1
+Number of Guest: asd
+Date: f
+Email Address: s
+Contact Number: sd
+Room Type: Deluxe ($120)
+Breakfast Option: with breakfast (+$20)
+                    Total bill is 140   
+------------------- Hotel Receipt -------------------------------------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+                    Total bill is 0   
+------------------- Hotel Receipt -----------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+                    Total bill is 0   
+------------------- Hotel Receipt -----------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Grand ($250)
+Breakfast Option: with breakfast (+$20)
+Total bill is 270   
+------------------- Hotel Receipt -----------------------
+Guest Name: 
+Number of Guest: 
+Date: 
+Email Address: 
+Contact Number: 
+Room Type: Super Deluxe ($150)
+Breakfast Option: without breakfast
+Total bill is 150   
